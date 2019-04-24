@@ -1,4 +1,9 @@
 # dir
+data/
+temp/
+tmp/
+log/
+hadoop-2.7.7/winutils/
 data
 temp
 tmp
