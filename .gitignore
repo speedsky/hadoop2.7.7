@@ -3,3 +3,8 @@ data
 temp
 tmp
 log
+
+*.log
+*.tlog
+*.lock
+
