@@ -23,10 +23,15 @@
     </property>
     <property>    
         <name>dfs.namenode.name.dir</name>    
-        <value>/G:/hadoop2.7.7/data/dfs/namenode</value>    
+        <value>/G:/hadoop2.7.7/data/namenode</value>    
     </property>    
     <property>    
         <name>dfs.datanode.data.dir</name>    
-        <value>/G:/hadoop2.7.7/data/dfs/datanode</value>  
+        <value>/G:/hadoop2.7.7/data/datanode</value>  
+    </property>
+	
+	<property>
+	     <name>dfs.permissions</name>
+		 <value>false</value>
     </property>
 </configuration>
